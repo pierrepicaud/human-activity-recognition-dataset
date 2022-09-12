@@ -12,8 +12,11 @@ Activity recognition using Machine Learning
 Using machine learning model to recognize activities through data from sensors
 
 What will we implement: A model that classify the activities given data from sensor
+
 Sensors: Accelometer, gyroscope
+
 Activities: Body activity status
+
 Recognition: Detection
 
 Data we will use:
