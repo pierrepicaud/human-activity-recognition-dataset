@@ -3,7 +3,7 @@
 ## Team members:
 - Abar Madaminov
 - Du Tham Lieu
-- Eshan Shagaei
+- Ehsan Shaghaei
 
 ## Project Topic:
 Activity recognition using Machine Learning
@@ -11,13 +11,13 @@ Activity recognition using Machine Learning
 ## Project description
 Using machine learning model to recognize activities through data from sensors
 
-What will we implement: A model that classify the activities given data from sensor
+What will we implement: Several models that classify the activities given data from sensor
 
 Sensors: Accelometer, gyroscope
 
 Activities: Body activity status
 
-Recognition: Detection
+Recognition: Recognition
 
 Data we will use:
 - [test.csv.zip](https://github.com/pierrepicaud/human-activity-recognition-dataset/blob/main/test.csv.zip)
@@ -25,3 +25,5 @@ Data we will use:
 
 Expected result:
 A notebook that shows the implemented model
+
+[Find this on Github](https://github.com/pierrepicaud/human-activity-recognition-dataset/blob/main/project-proposal.md)
